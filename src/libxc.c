@@ -1,5 +1,5 @@
 /**
- * collectd - src/xenmon.c
+ * collectd - src/libxc.c
  * Copyright (C) 2011       Stepan G. Fedorov
  *
  * This program is free software; you can redistribute it and/or modify it
